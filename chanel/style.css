@@ -1,4 +1,14 @@
 /* ---- Rule ----- */
+@font-face {
+    font-family: 'Happiness-Sans';
+    src: url('./webfont/Happiness-Sans-Regular.woff');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Happiness-Sans';
+    src: url('./webfont/Happiness-Sans-Bold.woff');
+    font-style: normal;
+}
 * {
     padding: 0;
     margin: 0;
