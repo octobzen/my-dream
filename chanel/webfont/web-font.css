@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Happiness-Sans';
+    src: url('./Happiness-Sans-Regular.woff');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Happiness-Sans';
+    src: url('./Happiness-Sans-Bold.woff');
+    font-style: normal;
+}
