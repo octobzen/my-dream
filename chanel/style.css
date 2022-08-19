@@ -1,14 +1,4 @@
 /* ---- Rule ----- */
-@font-face {
-    font-family: Happiness-Sans;
-    src: url('./webfont/Happiness-Sans-Regular.woff');
-    font-style: normal;
-}
-@font-face {
-    font-family: Happiness-Sans;
-    src: url('./webfont/Happiness-Sans-Bold.woff');
-    font-style: normal;
-}
 * {
     padding: 0;
     margin: 0;
@@ -16,7 +6,7 @@
     text-decoration: none;
     color: inherit;
     list-style: none;
-    font-family: Happiness-Sans;
+    font-family: Happiness-Sans, 'NanumGothic';
 }
 :root {
     --bold : 700;
